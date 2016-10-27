@@ -1,0 +1,26 @@
+{
+  "name": "hoverfly",
+  "version": "0.8.2",
+  "description": "Lightweight service virtualization/API simulation tool for developers and testers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpectoLabs/hoverfly-npm.git"
+  },
+  "keywords": [
+    "testing",
+    "stubbing",
+    "mocking",
+    "api",
+    "proxy"
+  ],
+  "author": "spectolabs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SpectoLabs/hoverfly-npm/issues"
+  },
+  "homepage": "https://hoverfly.io"
+}
